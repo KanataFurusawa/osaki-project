@@ -10,7 +10,7 @@ Web application project developed during a Future Corporation 1-day internship.
 
 ## Screenshot
 
-![Application Screenshot](images/screenshot_osaki_project.png)
+![Application Screenshot](images/screenshot_osaki_project.jpg)
 
 ## Tech Stack
 
